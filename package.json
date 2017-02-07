@@ -1,0 +1,22 @@
+{
+  "name": "rep-finder",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakesower/dsa-newsletters.git"
+  },
+  "author": "Jake Sower",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jakesower/rep-finder/issues"
+  },
+  "homepage": "https://github.com/jakesower/rep-finder#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {}
+}
